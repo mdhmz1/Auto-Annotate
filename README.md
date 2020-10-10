@@ -5,7 +5,7 @@ Each and every image with a street sign in the diverse dataset directory contain
 
 The Auto-Annotate tool provides auto annotation of segmentation masks for the objects in the images inside some directory based on the labels. Auto-Annotate is able to provide automated annotations for the labels defined in the COCO Dataset and also supports Custom Labels. This tool is built on top of [Mask R-CNN](https://github.com/matterport/Mask_RCNN) to support auto annotation for each instance of an object segment in the image. 
 
-![Working Sample: ANNOTATE CUSTOM](assets/AutoAnnotate-Working.jpg)
+![Working Sample: ANNOTATE CUSTOM](asset/AutoAnnotate-Working_LowRes.png)
 
 The Auto-Annotate tool works on two modes
 * **COCO Label Annotation** - NO TRAINING REQUIRED. Just use the weights of the the Coco dataset. Point to the directory and the annotations are ready.
@@ -53,7 +53,7 @@ The Auto-Annotate tool works on two modes
 ###
 ORIGINAL IMAGE             |  MASKED IMAGE
 :-------------------------:|:-------------------------:
-![](asset/bird_house_in_lawn.jpg)  |  ![](bird_house_in_lawn_masked.jpg)
+![](asset/bird_house_in_lawn.jpg)  |  ![](asset/bird_house_in_lawn_masked.jpg)
 
 
 ## Installation
