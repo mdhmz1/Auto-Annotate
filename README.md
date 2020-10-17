@@ -67,7 +67,7 @@ ORIGINAL IMAGE             |  MASKED IMAGE
    ```
 
 3. **If annotating objects supported by COCO Dataset** 
-  Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
+  Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases) and store it in the root directory.
   **If annotating objects Custom Objects** 
   Train Mask RCNN and use those weights.
 
