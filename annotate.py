@@ -81,7 +81,7 @@ def annotateAndSaveAnnotations(r, directory, image_name, label):
 
 def annotateImagesInDirectory(rcnn, directory_path, label):
     for fileName in os.listdir(directory_path):
-        if fileName.endswith(".jpg") or fileName.endswith(".jpeg") or fileName.endswith(".png"):
+        if fileName.endswith(".jpg") or fileName.endswith(".jpeg") or fileName.endswith(".png") or fileName.endswith(".tif") or fileName.endswith(".tiff"):
         # load image
             print("Evaluating Image: " + fileName)
             img = load_img(directory_path+"/"+fileName)
