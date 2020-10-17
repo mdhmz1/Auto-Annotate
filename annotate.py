@@ -103,7 +103,7 @@ def annotateImagesInDirectory(rcnn, directory_path, label):
 
 
 ROOT_DIR = os.path.abspath("./")
-COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "./weight/mask_rcnn_coco.h5")
+COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "./mask_rcnn_coco.h5")
 
 # Directory to save logs, if not provided
 # through the command line argument --logs
