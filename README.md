@@ -1,7 +1,5 @@
 # Auto-Annotate: Automatically annotate your entire image directory by a single command.
 
-For a more detailed explaination of this and usage, please refer to this [medium article](https://medium.com/analytics-vidhya/automated-image-annotation-using-auto-annotate-tool-f8fff8ea4900).
-
 **As simple as saying - "Annotate all the street sign (label) in the autonomous car dataset (directory)" and BAM! DONE.**
 Each and every image with a street sign in the diverse dataset directory containing images of all sorts which have a street sign are filtered and the segmentation annotation is performed in a single command.
 
