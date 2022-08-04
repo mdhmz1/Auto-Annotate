@@ -13,7 +13,7 @@ The Auto-Annotate tool works on two modes
 * **COCO Label Annotation** - NO TRAINING REQUIRED. Just use the weights of the the Coco dataset. Point to the directory and the annotations are ready.
 * **Custom Label Annotation** - Train the model for the custom label. Use the weights and annotate.
 
-NOTE: Please refer to [KnownIssues.md](KnownIssues.md) file in the repo for known issues and their resolution. Please feel free to contribute in case of any errors/issues arising during the installation and usage of the tool.
+NOTE: Please refer to [knownIssues.md](knownIssues.md) file in the repo for known issues and their resolution. Please feel free to contribute in case of any errors/issues arising during the installation and usage of the tool.
 
 ## JSON Annotation Format
 
