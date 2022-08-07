@@ -1,9 +1,9 @@
 
-<p align="center"><a href="https://github.com/mdhmz1/Auto-Annotate#mdhmz1">![Auto-Annotate Icon](asset/icons/icon_transparent.png)</a></p>
+<center><a href="https://github.com/mdhmz1/Auto-Annotate#mdhmz1">![Auto-Annotate Icon](asset/icons/icon_transparent.png)</a></center>
 <h1 align="center">Auto-Annotate</h1>
 <p align="center">Automatically annotate your entire image directory by a single command. </p>
 
-<p align="center">![version](https://img.shields.io/badge/version-v1.0.0-brightgreen?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/mdhmz1/Auto-Annotate?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/mdhmz1/Auto-Annotate?&style=social) </p>
+![version](https://img.shields.io/badge/version-v1.0.0-brightgreen?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/mdhmz1/Auto-Annotate?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/mdhmz1/Auto-Annotate?&style=social)
 
 
 
