@@ -1,6 +1,18 @@
-# Auto-Annotate: Automatically annotate your entire image directory by a single command.
+
+<center>
+<a href="https://github.com/mdhmz1/Auto-Annotate#mdhmz1">![Auto-Annotate Icon](asset/icon_transparent.png)</a></center>
+<h1 align="center">Auto-Annotate</h1>
+<p align="center">Automatically annotate your entire image directory by a single command. </p>
+
+<center>![version](https://img.shields.io/badge/version-v1.0.0-brightgreen?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/mdhmz1/Auto-Annotate?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/mdhmz1/Auto-Annotate?&style=social)</center>
+
+
+
 
 For a more detailed explaination and code usage, please refer to this [medium article](https://medium.com/analytics-vidhya/automated-image-annotation-using-auto-annotate-tool-f8fff8ea4900).
+
+<a href="https://medium.com/analytics-vidhya/automated-image-annotation-using-auto-annotate-tool-f8fff8ea4900">![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
+
 
 **As simple as saying - "Annotate all the street sign (label) in the autonomous car dataset (directory)" and BAM! DONE.**
 Each and every image with a street sign in the diverse dataset directory containing images of all sorts which have a street sign are filtered and the segmentation annotation is performed in a single command.
@@ -118,4 +130,18 @@ The use train.py which is a modified version of balloon.py written by Waleed to 
     python3 customTrain.py train --dataset=/path/to/custom/dataset --weights=last
 ```
 
-[CONNECT WITH ME ON LINKEDIN](https://www.linkedin.com/in/mdhmz1/)
+## :clap: Supporters
+
+### :star: Stargazers
+[![Stargazers repo roster for @mdhmz1/Auto-Annotate](https://reporoster.com/stars/dark/mdhmz1/Auto-Annotate)](https://github.com/mdhmz1/Auto-Annotate/stargazers)
+### :twisted_rightwards_arrows: Forkers 
+[![Forkers repo roster for @mdhmz1/Auto-Annotate](https://reporoster.com/forks/dark/mdhmz1/Auto-Annotate)](https://github.com/mdhmz1/Auto-Annotate/network/members)
+
+##
+
+[ 🤝 CONNECT WITH ME ON LINKEDIN](https://www.linkedin.com/in/mdhmz1/)
+<br/>
+<a href="https://www.linkedin.com/in/mdhmz1/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+) </a>
+
+##
