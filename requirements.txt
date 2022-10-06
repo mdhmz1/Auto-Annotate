@@ -7,7 +7,7 @@ scikit-image
 tensorflow==1.15
 keras==2.0.8
 opencv-python
-h5py
+h5py==2.10.0
 imgaug
 Shapely
 IPython[all]
