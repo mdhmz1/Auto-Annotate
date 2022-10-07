@@ -6,6 +6,7 @@ import json
 import os
 from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
+from mrcnn import utils
 from mrcnn.visualize import display_instances
 from mrcnn.config import Config
 from mrcnn.model import MaskRCNN
